@@ -7,3 +7,6 @@ terraform apply
 terraform import
 terraform show
 
+
+Linux :
+Command to see ssh keys in ubuntu machine : ls -al ~/.ssh 
